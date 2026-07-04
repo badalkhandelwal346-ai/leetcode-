@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+## Array
+|  |
+| ------- |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3940-limit-occurrences-in-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3940-limit-occurrences-in-sorted-array) |
 <!---LeetCode Topics End-->
