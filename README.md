@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3899-angles-of-a-triangle](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3899-angles-of-a-triangle) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3899-angles-of-a-triangle](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3899-angles-of-a-triangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
