@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3028-ant-on-the-boundary](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3028-ant-on-the-boundary) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3899-angles-of-a-triangle](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3899-angles-of-a-triangle) |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Simulation
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3028-ant-on-the-boundary) |
+## Prefix Sum
+|  |
+| ------- |
+| [3028-ant-on-the-boundary](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3028-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
