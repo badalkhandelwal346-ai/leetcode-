@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3941-password-strength](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3941-password-strength) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Counting
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +59,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Backtracking
+|  |
+| ------- |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->
