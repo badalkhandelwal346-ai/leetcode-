@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Backtracking
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1025-divisor-game) |
+## Binary Search
+|  |
+| ------- |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 <!---LeetCode Topics End-->
