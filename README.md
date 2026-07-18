@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1025-divisor-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3028-ant-on-the-boundary](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3028-ant-on-the-boundary) |
 | [3046-split-the-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3046-split-the-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
