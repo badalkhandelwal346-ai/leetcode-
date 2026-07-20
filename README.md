@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0046-permutations) |
 | [1331-rank-transform-of-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3028-ant-on-the-boundary](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3028-ant-on-the-boundary) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0046-permutations) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Simulation
 |  |
