@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3941-password-strength](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3941-password-strength) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0155-min-stack) |
+## Greedy
+|  |
+| ------- |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 <!---LeetCode Topics End-->
