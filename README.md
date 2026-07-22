@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3028-ant-on-the-boundary](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3028-ant-on-the-boundary) |
 | [3046-split-the-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3046-split-the-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [3046-split-the-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3046-split-the-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3941-password-strength](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3945-digit-frequency-score) |
 ## Graph Theory
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+## Linked List
+|  |
+| ------- |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
