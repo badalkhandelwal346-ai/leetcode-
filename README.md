@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0046-permutations) |
 | [0496-next-greater-element-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3769-sort-integers-by-binary-reflection) |
