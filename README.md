@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2697-lexicographically-smallest-palindrome](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3941-password-strength](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3941-password-strength) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3955-valid-binary-strings-with-cost-limit) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [3046-split-the-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3046-split-the-array) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3941-password-strength](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3945-digit-frequency-score) |
