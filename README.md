@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3046-split-the-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3731-find-missing-elements](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3731-find-missing-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3731-find-missing-elements](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3945-digit-frequency-score) |
 ## Graph Theory
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3731-find-missing-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
