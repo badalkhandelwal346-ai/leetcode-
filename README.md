@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0055-jump-game) |
 | [0496-next-greater-element-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0877-stone-game) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0055-jump-game) |
 | [0877-stone-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1025-divisor-game) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0055-jump-game) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 ## Linked List
