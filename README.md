@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
