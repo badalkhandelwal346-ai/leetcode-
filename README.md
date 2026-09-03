@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0022-generate-parentheses) |
+| [0140-word-break-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0140-word-break-ii) |
 | [1927-sum-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1927-sum-game) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0055-jump-game) |
+| [0140-word-break-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0140-word-break-ii) |
 | [0496-next-greater-element-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0877-stone-game) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0140-word-break-ii) |
 | [0496-next-greater-element-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [3046-split-the-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3046-split-the-array) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0055-jump-game) |
+| [0140-word-break-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0140-word-break-ii) |
 | [0877-stone-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1025-divisor-game) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0046-permutations) |
+| [0140-word-break-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0140-word-break-ii) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Simulation
 |  |
@@ -241,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0022-generate-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
