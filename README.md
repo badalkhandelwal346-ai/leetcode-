@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3925-concatenate-array-with-reverse](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [4020-elevator-requests-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3028-ant-on-the-boundary) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/4020-elevator-requests-i) |
 ## Prefix Sum
 |  |
 | ------- |
