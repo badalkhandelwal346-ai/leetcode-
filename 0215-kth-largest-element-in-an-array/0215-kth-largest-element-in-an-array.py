@@ -7,6 +7,8 @@ class Solution:
         heap=[]
         for num in nums:
             heapq.heappush(heap,num)
-        for i in range(len(nums)-k):
-            heapq.heappop(heap)
+        # for i in range(len(nums)-k):
+        #     heapq.heappop(heap)
+            if len(heap)>k:
+                heapq.heappop(heap)
         return heap[0]        
