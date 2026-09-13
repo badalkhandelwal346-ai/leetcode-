@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3046-split-the-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3046-split-the-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3731-find-missing-elements) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3941-password-strength) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
