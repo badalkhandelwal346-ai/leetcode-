@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3498-reverse-degree-of-a-string](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 | [3941-password-strength](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3941-password-strength) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3955-valid-binary-strings-with-cost-limit) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3028-ant-on-the-boundary](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3028-ant-on-the-boundary) |
+| [3498-reverse-degree-of-a-string](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3925-concatenate-array-with-reverse) |
 | [4020-elevator-requests-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/4020-elevator-requests-i) |
