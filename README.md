@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0022-generate-parentheses) |
 | [0140-word-break-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0140-word-break-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1927-sum-game) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0496-next-greater-element-i) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
