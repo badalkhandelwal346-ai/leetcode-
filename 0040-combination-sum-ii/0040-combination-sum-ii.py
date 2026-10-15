@@ -11,7 +11,7 @@ class Solution:
                 if j > i and candidates[j] == candidates[j-1]:
                     continue
                 if candidates[j] > ans:
-                    continue
+                    break
 
                 curr.append(candidates[j])
                 f(j+1,ans-candidates[j])
