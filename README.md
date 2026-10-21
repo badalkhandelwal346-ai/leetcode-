@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0877-stone-game) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0062-unique-paths) |
 | [0140-word-break-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0140-word-break-ii) |
 | [0877-stone-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1025-divisor-game) |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
