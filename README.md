@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0140-word-break-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0140-word-break-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0496-next-greater-element-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0064-minimum-path-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Geometry
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0140-word-break-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0140-word-break-ii) |
 | [0877-stone-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1025-divisor-game) |
