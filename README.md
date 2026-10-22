@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0877-stone-game) |
+| [0948-bag-of-tokens](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0948-bag-of-tokens](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0948-bag-of-tokens) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0948-bag-of-tokens](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0055-jump-game) |
+| [0948-bag-of-tokens](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0948-bag-of-tokens) |
 | [1927-sum-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2697-lexicographically-smallest-palindrome) |
