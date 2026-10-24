@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2409-count-days-spent-together) |
 | [3536-maximum-product-of-two-digits](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0140-word-break-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
