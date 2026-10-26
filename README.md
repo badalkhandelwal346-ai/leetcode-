@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0140-word-break-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0496-next-greater-element-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0200-number-of-islands) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Geometry
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -355,9 +358,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
