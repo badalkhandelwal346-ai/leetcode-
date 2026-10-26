@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0877-stone-game) |
 | [0948-bag-of-tokens](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1288-remove-covered-intervals) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0695-max-area-of-island) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Geometry
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -359,10 +362,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
