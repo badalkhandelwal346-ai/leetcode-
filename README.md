@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -350,4 +352,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0062-unique-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
