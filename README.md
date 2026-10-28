@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-bag-of-tokens](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0948-bag-of-tokens) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/3731-find-missing-elements) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-bag-of-tokens](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0948-bag-of-tokens) |
 | [1833-maximum-ice-cream-bars](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1927-sum-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2697-lexicographically-smallest-palindrome) |
