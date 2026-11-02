@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0062-unique-paths) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0877-stone-game) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0695-max-area-of-island) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-bag-of-tokens](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1288-remove-covered-intervals) |
