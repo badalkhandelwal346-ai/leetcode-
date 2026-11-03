@@ -13,6 +13,7 @@ class Solution:
             if i>=m or j>=n:
                 return 0
             if obstacleGrid[i][j]==1:
+                dp[i][j]==0
                 return 0
             if dp[i][j]!=-1:
                 return dp[i][j]     
