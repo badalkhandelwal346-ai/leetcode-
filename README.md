@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0836-rectangle-overlap) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0140-word-break-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0140-word-break-ii) |
+| [0189-rotate-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0213-house-robber-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0189-rotate-array) |
 | [0948-bag-of-tokens](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/badalkhandelwal346-ai/leetcode-/tree/master/2697-lexicographically-smallest-palindrome) |
